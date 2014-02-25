@@ -7,10 +7,10 @@ title: Maidan-hakaton
 постійнодіючого онлайн та оффлайн хакатону “Прозорість — інструмент Громадянина”.
 
 * [Офіційна сторінка](http://maidan-hackaton.github.io)
-* [Сторінка у Вконтакте](http://vk.com/maidanhackathon)
-* [Facebook](https://www.facebook.com/groups/MaidanHackthon)
 * Портал (в розробці)
 * Звязок:
+    * [Сторінка у Вконтакте](http://vk.com/maidanhackathon)
+    * [Facebook](https://www.facebook.com/groups/MaidanHackthon)
     * [Сервіс Zello](http://zello.com), канал Maidan-hackathon
     * Skype-чат. Координатори: foramigos, denex0_0
 
