@@ -12,17 +12,14 @@ title: Maidan-hakaton
 
 [Обновляемый гугл документ](http://goo.gl/QstvQe) 
 
-### Ресурси 
+### Контакти
 
-* [Офіційна сторінка](http://e-gov.com.ua)
-* [Система управления проектами](http://rm.e-gov.com.ua)
-* [Wiki](http://maidan-hackathon.org.ua/wiki)
-* [Форумы](http://maidan-hackathon.org.ua/forum/)
-* Звязок:
-    * [Сторінка у Вконтакте](http://vk.com/maidanhackathon)
-    * [Facebook](https://www.facebook.com/groups/MaidanHackthon)
-    * [Сервіс Zello](http://zello.com), канал Maidan-hackathon
-    * Skype-чат. Координатори: foramigos, denex0_0
+ * [Сторінка у Вконтакте](http://vk.com/maidanhackathon)
+ * [Facebook](https://www.facebook.com/groups/MaidanHackthon)
+ * [Сервіс Zello](http://zello.com), канал Maidan-hackathon
+ * Skype-чат. Координатори: foramigos, denex0_0
+
+### Допомогти
 
 ***Важливо - цю форму заповнюємо, якщо у Вас є команда***
 
