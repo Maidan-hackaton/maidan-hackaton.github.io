@@ -15,7 +15,9 @@ title: Maidan-hakaton
 ### Ресурси 
 
 * [Офіційна сторінка](http://e-gov.com.ua)
-* Портал (в розробці)
+* [Система управления проектами](http://rm.e-gov.com.ua)
+* [Wiki](http://maidan-hackathon.org.ua/wiki)
+* [Форумы](http://maidan-hackathon.org.ua/forum/)
 * Звязок:
     * [Сторінка у Вконтакте](http://vk.com/maidanhackathon)
     * [Facebook](https://www.facebook.com/groups/MaidanHackthon)
