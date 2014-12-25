@@ -18,7 +18,7 @@ title: e-gov.com.ua
 * Документообіг (document management systems)
 * Електронна ідентифікація (electronic identification)
 * Електронні сервіси (e-services)
-* Відкриті дані (open data)
+* Відкриті дані (open data), реєстри та публічна інформація
 * Електронна демократія (e-democracy)
 * Відкритий код та співпраця (open source and open collaboration)
 * Авторське право та відкрита ліцензія у контексті e-gov
