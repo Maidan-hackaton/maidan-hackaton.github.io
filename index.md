@@ -21,6 +21,7 @@ title: e-gov.com.ua
 * Відкриті дані (open data)
 * Електронна демократія (e-democracy)
 * Відкритий код та співпраця (open source and open collaboration)
+* Авторське право та відкрита ліцензія у контексті e-gov
 
 ### Контакти
 
