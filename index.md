@@ -34,6 +34,7 @@ title: e-gov.com.ua
 ### Схожі ресурси
 
  * [Електронне урядування в Україні](https://egovua.wordpress.com/) ([Facebook-група](https://www.facebook.com/groups/egov.ua))
+ * [Національний центр електронного урядування](https://www.facebook.com/nc.gov.ua)
 
 ### Ідеї для натхнення
 
