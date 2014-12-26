@@ -20,7 +20,7 @@ title: e-gov.com.ua
 
 * Документообіг, взаємодія, шина даних (document management systems, interoperability, data transfer backbone)
 * [Електронна ідентифікація (electronic identification)](e-identification.html)
-* Електронні сервіси (e-services)
+* [Електронні сервіси (public e-services)](e-services.html)
   * [Електронні закупівлі (e-procurement)](e-procurement.html)
 * Відкриті дані (open data), реєстри та публічна інформація
 * Електронна демократія (e-democracy)
