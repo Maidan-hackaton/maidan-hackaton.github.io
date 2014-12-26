@@ -4,6 +4,7 @@ title: e-gov.com.ua
 ---
 
 * [Про сайт](about.html)
+* [Схожі сайти](links.html)
 * [Контакти](contacts.html)
 
 ### Останні новини
