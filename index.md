@@ -16,7 +16,7 @@ title: e-gov.com.ua
 ### Напрямки
 
 * Документообіг (document management systems)
-* Електронна ідентифікація (electronic identification)
+* [Електронна ідентифікація (electronic identification)](e-identification.html)
 * Електронні сервіси (e-services)
 * Відкриті дані (open data), реєстри та публічна інформація
 * Електронна демократія (e-democracy)
