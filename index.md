@@ -21,7 +21,7 @@ title: e-gov.com.ua
 * [Електронна ідентифікація (electronic identification)](e-identification.html)
 * Електронні сервіси (e-services)
 * Відкриті дані (open data), реєстри та публічна інформація
-* [Електронні закупівлі](e-procurement.html)
+* [Електронні закупівлі (e-procurement)](e-procurement.html)
 * Електронна демократія (e-democracy)
 * Відкритий код та співпраця (open source and open collaboration)
 * Авторське право та відкрита ліцензія у контексті e-gov
