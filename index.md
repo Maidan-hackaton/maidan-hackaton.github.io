@@ -17,7 +17,7 @@ title: e-gov.com.ua
 
 ### Напрямки
 
-* Документообіг (document management systems)
+* Документообіг, взаємодія, шина даних (document management systems, interoperability, data transfer backbone)
 * [Електронна ідентифікація (electronic identification)](e-identification.html)
 * Електронні сервіси (e-services)
  * [Електронні закупівлі (e-procurement)](e-procurement.html)
