@@ -13,7 +13,7 @@ title: e-gov.com.ua
 * Розробляється [Біла книга про електронну ідентифікацію](https://docs.google.com/document/d/1fB2gfz3iMuv8fvF07fFuOf8LlNK4ZaFu0u8BIdUU24Q/edit)
 * [Зібрано](https://www.facebook.com/eGovernanceUkraine/posts/790685364318068) учасників обговорення інших білих книг про електронне урядування
 * [Запропоновано](https://www.facebook.com/photo.php?fbid=761354877276166) створити стенд тестування ПЗ для електронного підпису
-* Проведено обговорення [Зеленої книги з електронного урядування](http://e-gov.com.ua/green-book)
+* [Проведено](http://e-zakon.org/greenbook/#schedule) обговорення [Зеленої книги з електронного урядування](http://e-gov.com.ua/green-book)
 
 ### Напрямки
 
