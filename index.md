@@ -4,6 +4,7 @@ title: e-gov.com.ua
 ---
 
 * [Про сайт](about.html)
+* [Контакти](contacts.html)
 
 ### Останні новини
 
@@ -24,13 +25,6 @@ title: e-gov.com.ua
 * Авторське право та відкрита ліцензія у контексті e-gov
 * Міжнародний досвід (для кожного напрямку)
 * Регіональний досвід (окремо чи для кожного напрямку)
-
-### Контакти
-
- * [Якщо є зауваження до цього ресурсу](https://github.com/Maidan-hackaton/maidan-hackaton.github.io/issues)
- * [Якщо є зауваження до цього тексту](https://github.com/Maidan-hackaton/maidan-hackaton.github.io/edit/master/index.md)
- * [Якщо ви програміст та хочете допомогти](https://github.com/Maidan-hackaton)
- * [Зв'язатися з людиною](https://www.facebook.com/vanuan)
 
 ### Схожі ресурси
 
