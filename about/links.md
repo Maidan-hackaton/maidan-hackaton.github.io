@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Схожі ресурси - e-gov.com.ua
+title: Схожі ресурси -
 ---
 
 ### Схожі ресурси

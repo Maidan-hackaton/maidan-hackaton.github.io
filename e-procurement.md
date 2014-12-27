@@ -1,6 +1,6 @@
 ---
 layout: default
-title: e-gov.com.ua
+title: Електронні державні закупівлі
 ---
 
 ## Електронні державні закупівлі / e-Procurement

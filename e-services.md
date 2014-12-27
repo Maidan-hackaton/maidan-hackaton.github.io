@@ -1,6 +1,5 @@
 ---
-layout: default
-title: e-gov.com.ua
+title: Електронні сервіси
 ---
 
 ## Поточний стан в Європі

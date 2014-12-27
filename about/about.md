@@ -1,6 +1,6 @@
 ---
 layout: default
-title: e-gov.com.ua
+title: Про сайт - 
 ---
 
 ## Про сайт

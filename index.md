@@ -1,8 +1,3 @@
----
-layout: default
-title: e-gov.com.ua
----
-
 * [Ідеї](ideas/ideas.html)
 * [Проекти на GitHub](ideas/projects.html)
 
