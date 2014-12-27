@@ -1,3 +1,6 @@
+---
+title: 
+---
 * [Ідеї](ideas/ideas.html)
 * [Проекти на GitHub](ideas/projects.html)
 
