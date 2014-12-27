@@ -3,9 +3,8 @@ layout: default
 title: e-gov.com.ua
 ---
 
-* [Про сайт](about.html)
-* [Схожі сайти](links.html)
-* [Контакти](contacts.html)
+* [Ідеї](ideas/ideas.html)
+* [Проекти на GitHub](ideas/projects.html)
 
 ### Останні новини
 
@@ -26,15 +25,11 @@ title: e-gov.com.ua
 * Електронна демократія (e-democracy)
 * Відкритий код та співпраця (open source and open collaboration)
 * Авторське право та відкрита ліцензія у контексті e-gov
-* Міжнародний досвід (для кожного напрямку)
+* Міжнародний досвід (для кожного напрямку та рейтинги загалом)
 * Регіональний досвід (окремо чи для кожного напрямку)
 
+### Про сайт
 
-### Ідеї для натхнення
-
-* [Майдан](http://euromaidan.uservoice.com) - Ідеї по реформуванню держави
-  * [ІТ-країна](http://ideas.it-krayina.org.ua/)
-  * [Таблиця ідей та проектів](http://goo.gl/0L9zwJ)
-  * [Хакатон](https://maidan-hackaton.uservoice.com) - Ідеї того, що може зробити IT-сектор для підтримки реформ
-* [Освітні ідеї](http://ideas.brainbasketfoundation.com/)
-* [Муніціпальні ідеї](http://odessa.uservoice.com/)
+* [Про сайт](about/about.html)
+* [Схожі сайти](about/links.html)
+* [Контакти](about/contacts.html)
