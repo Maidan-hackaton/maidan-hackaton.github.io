@@ -4,6 +4,8 @@ title: Відкриті дані -
 
 ## Відкриті дані
 
+* [Що це](http://opendefinition.org/od/) ([source code](https://github.com/okfn/opendefinition/tree/gh-pages/od))
+
 ### В Україні
 
 * [CKAN instance on AWS](http://54.149.241.81/uk_UA/dataset)
