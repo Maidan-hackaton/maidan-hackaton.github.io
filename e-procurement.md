@@ -7,6 +7,8 @@ title: Електронні державні закупівлі
 ### У світі
 
 * [Procurement Open Data Guidelines](http://sunlightfoundation.com/procurement/opendataguidelines)
+* [Open Contracting](http://www.open-contracting.org/)
+* [Open Spending](https://openspending.org/)
 
 ### В Україні
 
@@ -18,6 +20,8 @@ title: Електронні державні закупівлі
 * http://www.ips.vdz.ua/ Є платною
 * http://z.texty.org.ua/ Є недостатньо повною
 
+#### Відкрита система допорогових торгів
+
 В Україні відбувається [реформа державних закупівель](http://reforms.in.ua/initsiatyvy/reforma-derzhavnyh-zakupivel.html).
 
 Безпрецедентним кроком є створення за 3 місяці силами громадськості та бізнесу
@@ -28,7 +32,14 @@ title: Електронні державні закупівлі
 
 Попереду справжній тест для держави - прийняття система на баланс, використання та її прозора підтримка.
 
-Посилання на інформацію:
+#### ЕЦП у торгах
+
+Навколо використання ЕЦП у торгах досі точиться дискусія.
+
+29 грудня у KSE пройшла зустріч ["Електронні закупівлі та ідентифікація"](https://www.facebook.com/events/820420791348993/).
+
+
+#### Посилання
 
  * [reforms.in.ua](http://reforms.in.ua/initsiatyvy/reforma-derzhavnyh-zakupivel.html)
  * [Організація на GitHub](https://github.com/openprocurement)

@@ -6,6 +6,9 @@ title:
 
 ### Останні новини
 
+* 31 грудня 2014 відкрито [Кабінет адміністративних послуг](http://kap.minjust.gov.ua/)
+* 14 січня пройде зустріч [Юридично-значимий електронний документообіг (EDI) в системі державного управління та закупівель](https://www.facebook.com/events/1539913236260267/)
+* 29 грудня у KSE пройшла зустріч ["Електронні закупівлі та ідентифікація"](https://www.facebook.com/events/820420791348993/).
 * [Почалось](http://ppr.org.ua/23-grudnya-rozpochalos-testuvannya-sistemi-elektronnih-derzhzakupivel/) тестування [відкритої системи електронних держзакупівель](https://github.com/openprocurement)
 * Обговорюється [законопроект щодо відкритих даних](http://etransformation.org.ua/2014/12/23/464/)
 * Розробляється [Біла книга про електронну ідентифікацію](https://docs.google.com/document/d/1fB2gfz3iMuv8fvF07fFuOf8LlNK4ZaFu0u8BIdUU24Q/edit)
@@ -15,7 +18,7 @@ title:
 
 ### Напрямки
 
-* Документообіг, взаємодія, шина даних (document management systems, interoperability, data transfer backbone)
+* [Документообіг, взаємодія, шина даних (document management systems, interoperability, data transfer backbone)](edi.html)
 * [Електронна ідентифікація (electronic identification)](e-identification.html)
 * [Електронні сервіси (public e-services)](e-services.html)
   * [Електронні закупівлі (e-procurement)](e-procurement.html)
@@ -24,7 +27,7 @@ title:
 * Відкритий код та співпраця (open source and open collaboration)
 * Авторське право та відкрита ліцензія у контексті e-gov
 * Міжнародний досвід (для кожного напрямку та рейтинги загалом)
-* Регіональний досвід (окремо чи для кожного напрямку)
+* [Регіональний досвід](municipal.html) (окремо чи для кожного напрямку)
 
 ### Про сайт
 
