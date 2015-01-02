@@ -23,6 +23,7 @@ title:
 * [Електронні сервіси (public e-services)](e-services.html)
   * [Електронні закупівлі (e-procurement)](e-procurement.html)
 * [Відкриті дані (open data), реєстри та публічна інформація](open-data.html)
+  * [Закриті дані](closed-data.html)
 * Електронна демократія (e-democracy)
 * Відкритий код та співпраця (open source and open collaboration)
 * Авторське право та відкрита ліцензія у контексті e-gov

@@ -20,3 +20,9 @@ title: Відкриті дані -
 * [Open Government Partnership](http://www.opengovpartnership.org/how-it-works/action-plans)
 * [OKFN Global Data Index](http://index.okfn.org/)
   * [Contribute](http://global.census.okfn.org/)
+
+### Закриті дані
+
+Відкриті дані - це ті, що відповідають [принципам відкритості](http://opendefinition.org/od/).
+Більшість (якщо не всі) реєстри України такими не є. Тому інформацію про реєстри дивіться у розділі [закриті дані](closed-data.html)
+
