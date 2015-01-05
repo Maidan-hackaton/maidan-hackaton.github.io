@@ -10,12 +10,14 @@ title: Закриті дані -
 
 31 грудня 2014 ДП "Інформ`юст" відкрило сервіс під амбіційною назвою ["Кабінет адміністративних послуг"](http://kap.minjust.gov.ua/).
 
-Насправді це є "відкритий" реєстр нерухомості. Насправді, він не відкритий:
+Насправді це є "відкритий" реєстр нерухомості. Щоправда, він не відкритий:
 
 1. Потрібна реєстрація
 2. Масове завантаження реєстру недоступне
 3. Дані не в машинозчитуємому форматі (html, pdf)
 4. Потрібна оплата
+
+[Аналітична стаття](http://www.pravda.com.ua/columns/2015/01/5/7054208/)
 
 Проблеми захисту інформації:
 
@@ -25,6 +27,7 @@ title: Закриті дані -
 
 Обговорення:
 
-* [Facebook 1](https://www.facebook.com/peterodua/posts/795995267136134)
-* [Facebook 2](https://www.facebook.com/groups/eIDAS.UA/permalink/1591446324423189/)
-* [Google docs](https://docs.google.com/document/d/1d6y7Hae31-h5EPMyMyCoUWDZ6PEgwjjOsORmDLa-fUQ/edit)
+* [Захищеність, оплата](https://www.facebook.com/peterodua/posts/795995267136134)
+* [Захищеність](https://www.facebook.com/groups/eIDAS.UA/permalink/1591446324423189/)
+* [Порядок доступу, оплата](https://www.facebook.com/groups/eIDAS.UA/permalink/1579791322255356/)
+* [Порядок доступу (google document)](https://docs.google.com/document/d/1d6y7Hae31-h5EPMyMyCoUWDZ6PEgwjjOsORmDLa-fUQ/edit)
