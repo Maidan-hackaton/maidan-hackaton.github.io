@@ -36,5 +36,5 @@ title: Закриті дані -
 
 * [Реєстр виборців](https://www.drv.gov.ua)
 * Реєстри державно-архітектурно будівельної інспекції
-** [Реєстр декларацій](http://dabi.gov.ua/declarate/list.php?areg=00)
-** [Реєстр ліцензій](http://dabi.gov.ua/license/list.php)
+ * [Реєстр декларацій](http://dabi.gov.ua/declarate/list.php?areg=00)
+ * [Реєстр ліцензій](http://dabi.gov.ua/license/list.php)
