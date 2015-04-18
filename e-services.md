@@ -11,3 +11,5 @@ title: Електронні сервіси
 * [Facebook-група](https://www.facebook.com/groups/eServicesUA/)
 
 * [Закупівлі](e-procurement.html)
+* Адміністративні послуги
+  * [Державна архитектурно-будівельна інспекція](https://e-dabi.gov.ua/)
