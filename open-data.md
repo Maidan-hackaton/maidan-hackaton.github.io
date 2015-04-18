@@ -8,8 +8,8 @@ title: Відкриті дані -
 
 ### В Україні
 
-* [CKAN instance on AWS](http://54.149.241.81/uk_UA/dataset)
-* http://data.gov.ua
+* [CKAN instance source code](https://github.com/datagovua)
+* [DKAN instance ("official")](http://data.gov.ua)
 
 ### Рейтинги та оцінка
 
