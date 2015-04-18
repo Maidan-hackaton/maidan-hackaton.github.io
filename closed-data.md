@@ -31,3 +31,10 @@ title: Закриті дані -
 * [Захищеність](https://www.facebook.com/groups/eIDAS.UA/permalink/1591446324423189/)
 * [Порядок доступу, оплата](https://www.facebook.com/groups/eIDAS.UA/permalink/1579791322255356/)
 * [Порядок доступу (google document)](https://docs.google.com/document/d/1d6y7Hae31-h5EPMyMyCoUWDZ6PEgwjjOsORmDLa-fUQ/edit)
+
+### Інші реєстри
+
+* [Реєстр виборців](https://www.drv.gov.ua)
+* Реєстри державно-архітектурно будівельної інспекції
+** [Реєстр декларацій](http://dabi.gov.ua/declarate/list.php?areg=00)
+** [Реєстр ліцензій](http://dabi.gov.ua/license/list.php)
