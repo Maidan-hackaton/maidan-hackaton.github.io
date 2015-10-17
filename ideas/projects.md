@@ -11,12 +11,12 @@ title: e-gov.com.ua
 де можна брати участь безпосередньо у створенні.
 
 * [e-gov.com.ua (цей сайт)](https://github.com/Maidan-hackaton/maidan-hackaton.github.io)
-* [Адміністративні послуги](https://github.com/e-government-ua/i)
+* [Адміністративні послуги](https://github.com/e-government-ua/i) ([сайт](https://igov.org.ua/))
 * [Відкриті дані](http://data-gov-ua.org/)
   * [Дамп бази закупівель](http://visnyk.data.gov.ua/)
   * [Відкриті закупівлі](https://github.com/openprocurement)
   * [Відкритий бюджет](https://github.com/open-budget) ([сайт](http://open-budget.org/))
-  * [Відкритий бюджет 2](https://github.com/kavaleriy/budget) ([сайт](openbudget.in.ua))
+  * [Відкритий бюджет 2](https://github.com/kavaleriy/budget) ([сайт](http://openbudget.in.ua))
 
 ### Іноземні урядові організації на GitHub
 
