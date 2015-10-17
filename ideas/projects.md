@@ -15,7 +15,8 @@ title: e-gov.com.ua
 * [Відкриті дані](http://data-gov-ua.org/)
   * [Дамп бази закупівель](http://visnyk.data.gov.ua/)
   * [Відкриті закупівлі](https://github.com/openprocurement)
-  * [Відкритий бюджет](https://github.com/open-budget)
+  * [Відкритий бюджет](https://github.com/open-budget) ([сайт](http://open-budget.org/))
+  * [Відкритий бюджет 2](https://github.com/kavaleriy/budget) ([сайт](openbudget.in.ua))
 
 ### Іноземні урядові організації на GitHub
 
