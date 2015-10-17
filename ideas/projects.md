@@ -12,7 +12,9 @@ title: e-gov.com.ua
 
 * [e-gov.com.ua (цей сайт)](https://github.com/Maidan-hackaton/maidan-hackaton.github.io)
 * [Адміністративні послуги](https://github.com/e-government-ua/i) ([сайт](https://igov.org.ua/))
-* [Відкриті дані](http://data-gov-ua.org/)
+* Відкриті дані
+  * [Портал 1](http://data-gov-ua.org/)
+  * [Портал 2](http://data.ngorg.od.ua/uk/dataset)
   * [Дамп бази закупівель](http://visnyk.data.gov.ua/)
   * [Відкриті закупівлі](https://github.com/openprocurement)
   * [Відкритий бюджет](https://github.com/open-budget) ([сайт](http://open-budget.org/))
