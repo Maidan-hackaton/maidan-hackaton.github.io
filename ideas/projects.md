@@ -19,6 +19,7 @@ title: e-gov.com.ua
   * [Відкриті закупівлі](https://github.com/openprocurement)
   * [Відкритий бюджет](https://github.com/open-budget) ([сайт](http://open-budget.org/))
   * [Відкритий бюджет 2](https://github.com/kavaleriy/budget) ([сайт](http://openbudget.in.ua))
+  * [Місцеві вибори 2015](https://github.com/Maidan-hackaton/vote2015) ([сайт](http://e-gov.com.ua/vote2015/))
 
 ### Іноземні урядові організації на GitHub
 
