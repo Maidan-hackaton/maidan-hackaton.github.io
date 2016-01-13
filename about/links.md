@@ -9,6 +9,7 @@ title: Схожі ресурси -
  * [Майстерня е-урядування](http://www.e-gov.in.ua/)
  * [Електронне урядування в Україні](https://egovua.wordpress.com/) ([Facebook-група](https://www.facebook.com/groups/egov.ua))
  * [Національний центр електронного урядування](http://nc.da-gov.adamant.ua/)
+ * [Ми розвиваємо електронне урядування](http://egov.inf.ua/SitePages/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%20%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0.aspx)
 
 ### Іноземні
 
